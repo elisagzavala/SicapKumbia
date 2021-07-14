@@ -1,2 +1,2 @@
 # SicapKumbia
-Primer desaf[io en el framework kumbia PHP
+Primer desafio en el framework kumbia PHP
